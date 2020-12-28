@@ -1,0 +1,30 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "description": "typescriptなしの「libfb」の変更されたスクリプト。",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0zl/q.git"
+  },
+  "author": "libfb-js",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/0zl/q/issues"
+  },
+  "dependencies": {
+    "buffer-hexdump": "^1.0.0",
+    "debug": "^4.1.1",
+    "length-stream": "^0.1.1",
+    "long": "^4.0.0",
+    "mime-types": "^2.1.24",
+    "node-fetch": "^2.6.0",
+    "strict-event-emitter-types": "^2.0.0",
+    "thrift": "^0.12.0",
+    "tslib": "^1.10.0"
+  },
+  "homepage": "https://github.com/0zl/q#readme"
+}
